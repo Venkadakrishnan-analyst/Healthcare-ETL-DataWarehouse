@@ -1,4 +1,4 @@
-## **Healthcare ETL pipeline and Data Warehouse**
+## **HEALTHCARE ETL PIPELINE & DATA WAREHOUSE**
 
 ## Technologies Used
 - Python
